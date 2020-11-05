@@ -17,6 +17,7 @@ class Main {
       System.out.println(names[i] + " Sits here " + seatNumber[i]);
      i++;
     }
+
     
 
   }
